@@ -18,7 +18,7 @@ class MyTask implements Runnable {
     }
 }
 
-public class ThreadExamples {
+public class Main{
     public static void main(String[] args) {
         // Extending Thread example
         Thread t1 = new MyThread();
